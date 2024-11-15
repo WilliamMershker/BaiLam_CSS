@@ -1,0 +1,7 @@
+div#head {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 2px;
+}
